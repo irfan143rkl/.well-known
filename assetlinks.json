@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.appsbazar.demoapps",
+      "sha256_cert_fingerprints":
+      ["D1:D5:34:50:0D:FE:4C:4A:6A:70:9A:53:B3:A8:D1:73:A5:AC:9C:44:62:D1:40:F9:8C:A9:26:52:19:5C:CF:C6"]
+    }
+  }]
